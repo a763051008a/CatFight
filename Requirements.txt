@@ -1,0 +1,8 @@
+There is a requirements lists of CatFight . I hope you can update yours question if you find a bug of game . 
+
+Thank you !
+
+Requirements:
+
+1.optimize the programe structure 
+2.
